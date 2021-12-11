@@ -15,6 +15,6 @@ Curso Master JS 2021
 
 ![Captura1](https://user-images.githubusercontent.com/7141537/145685958-578c2d74-8536-4287-9de0-cd06f7718ffd.PNG)
 
-![Captura1](https://user-images.githubusercontent.com/7141537/145686438-0b6e7a72-30bd-4923-afb5-c4ff6796e73b.PNG)
-
 ![Captura](https://user-images.githubusercontent.com/7141537/145686439-0a197d89-acbc-4423-99e5-ea9d000a63c8.PNG)
+
+![Captura1](https://user-images.githubusercontent.com/7141537/145686438-0b6e7a72-30bd-4923-afb5-c4ff6796e73b.PNG)
